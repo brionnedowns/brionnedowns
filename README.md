@@ -1,10 +1,8 @@
 <h1 align="center">Hi! I'm Brionne Downs</h1>
-<h3 align="center">A Search Engine Marketing Strategy Manager turned Data Scientist living in Houston, TX</h3>
+<h3 align="center">A Data Scientist specializing in ecommerce analytics</h3>
 <br>
 
-- 🔭 I’m currently working on **Natural Language Processing of Twitter & Yelp restaurant data**
-
-- 🌱 I’m currently learning **Supervised Learning and Cluster Analysis**
+- 🔭 I’m currently working on **Multiple Linear Regression for Media Mix Modeling**
 
 - Ask me about: **Being a Data Science for All Fellow #teamDS4A**
 
