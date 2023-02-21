@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Multiple Linear Regression for Media Mix Modeling**
 
-- Ask me about: **Being a Data Science for All Fellow #teamDS4A**
+- Ask me about: **Being a Data Science for All Alumni #teamDS4A**
 
 - 📫 How to reach me **brionnedowns at gmail.com**
 
