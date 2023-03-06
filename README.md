@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scientist specializing in ecommerce analytics</h3>
 <br>
 
-- 🔭 I’m currently working on **Multiple Linear Regression for Media Mix Modeling**
+- 🔭 I’m currently working on **Comparing Multiple Linear Regression to Gradient Boosting Regression for Media Mix Modeling**
 
 - Ask me about: **Being a Data Science for All Alumni #teamDS4A**
 
